@@ -5,7 +5,7 @@ Ronen H
 February 2024 to May 2024.
 
 # Data Source
-[nbadraft.net](nbadraft.net)
+[https://www.nbadraft.net/](https://www.nbadraft.net/)
 
 # Data Preprocessing
 Can be seen in `preprocess_nba_draft.ipynb` notebook. Extracts pick, strengths, weaknesses, height, weight, and age.
