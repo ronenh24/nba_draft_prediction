@@ -2,7 +2,7 @@
 Ronen H
 
 # Timeline
-March 2024 to May 2024.
+February 2024 to May 2024.
 
 # Data Source
 [nbadraft.net](nbadraft.net)
